@@ -2,7 +2,7 @@
 We submitted to jokerace before time only but missed raising PR here, also no code is changed in source repo
 Hope we make it 
 
-**PR Format:**
+
    - **Project Name:** LensAI
      
    - **Team Members:** 
